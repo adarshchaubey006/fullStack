@@ -1,0 +1,29 @@
+h3{
+    color: burlywood;
+}
+*{
+    background-color: beige;
+ }
+ .one{
+    background-color: black;
+ }
+ #one{
+    background-color: chartreuse;
+ }
+ /* a[href='http://google.com']{
+    background-color: chocolate;
+ }
+ a[href='http://flipkart.com']{
+    background-color: cornflowerblue;
+ } */
+ a[href^='http']{
+    background-color: lightblue;
+ }
+ a[href$='in']{
+    background-color: aqua;
+    color: white;
+ }
+ /* a[href*='google']{
+    background-color: pink;
+    color: white;
+ } */
