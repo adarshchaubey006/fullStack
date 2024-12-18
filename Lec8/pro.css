@@ -1,0 +1,36 @@
+
+#parent{
+/* border: 2px solid black; */
+height: 300px;
+width: 200px;
+position: absolute;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#child{
+position: relative;
+}
+#child2{
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+    border-radius: 50%;
+}
+#child2 img{
+    border-radius: 50%;
+}
+#h3{
+    position: relative;
+    left: 35px;
+    bottom: 40px;
+}
+#para{
+    position: relative;
+    left: 10px;
+    bottom: 40px;
+}
+#span{
+    position: relative;
+    left: 70px;
+    top: 110px;
+    
+}
