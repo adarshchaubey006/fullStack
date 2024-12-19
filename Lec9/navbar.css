@@ -1,0 +1,33 @@
+#main{
+    position: absolute;
+    /* border: 2px solid black; */
+    background-color: black;
+    height: 30px;
+    width: 1050px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#main div{
+    display: flex;
+    justify-content: space-between;
+}
+#cc{
+    color: aliceblue;
+    display: flex;
+    justify-content: baseline;
+}
+#ops{
+    color: aliceblue;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 250px;
+}
+#log{
+    color: aliceblue;
+    display: flex;
+    justify-content: end;
+}

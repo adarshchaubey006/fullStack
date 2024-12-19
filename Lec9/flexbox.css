@@ -1,0 +1,28 @@
+#main{
+border: 2px solid;
+height: 300px;
+/* display: flex;
+flex-direction: row;
+flex-direction: column;
+flex-direction: row-reverse;
+flex-direction: column-reverse;
+justify-content: baseline;
+justify-content: center;
+justify-content: end;
+justify-content: space-around;
+justify-content: space-between;
+justify-content: space-evenly; */
+}
+#main div{
+height: 70px;
+width: 50px;
+}
+#one{
+    background-color: orange;
+}
+#two{
+    background-color: lightblue;
+}
+#three{
+    background-color: green;
+}
