@@ -1,11 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 #main{
     position: absolute;
-    /* border: 2px solid black; */
     background-color: black;
     height: 30px;
-    width: 1050px;
+    width: 1093px;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     align-items: center;
 }
@@ -14,7 +16,7 @@
     justify-content: space-between;
 }
 #cc{
-    color: aliceblue;
+    color: orange;
     display: flex;
     justify-content: baseline;
 }
@@ -27,7 +29,7 @@
     width: 250px;
 }
 #log{
-    color: aliceblue;
+    color: orange;
     display: flex;
     justify-content: end;
 }
