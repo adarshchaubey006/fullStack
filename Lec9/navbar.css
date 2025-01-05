@@ -6,7 +6,7 @@
     position: absolute;
     background-color: black;
     height: 30px;
-    width: 1093px;
+    width: 1242px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -32,4 +32,17 @@
     color: orange;
     display: flex;
     justify-content: end;
+}
+@media screen and ( max-width:372px ){
+    #main{
+        height: auto;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    #ops{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }

@@ -1,0 +1,12 @@
+div{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+@media screen and ( min-width:1000px ){
+    div{
+        background-color: aqua;
+        height: 100vx;
+        width: 100vx;
+    }
+}
