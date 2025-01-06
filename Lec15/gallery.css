@@ -1,0 +1,16 @@
+#main{
+    border: 2px solid black;
+    height: 310px;
+    width: 310px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    gap: 3px;
+}
+.g{
+    border: 1px solid black;
+}
+.g:hover{
+    transform: scale(1.2);
+}
