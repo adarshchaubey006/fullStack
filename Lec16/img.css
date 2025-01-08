@@ -1,0 +1,21 @@
+#img{
+    border: 2px solid;
+    height: 400px;
+    width: 400px;
+    margin: 45px auto;
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-image: url(https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); */
+    /* background: linear-gradient(black, blue); */
+    /* background: linear-gradient(to right, black, blue);  */
+    /* background: linear-gradient(to bottom, black, blue);
+    /* background: radial-gradient( black, blue); */
+    /* background: radial-gradient(ellipse, black, blue,cyan); */
+    /* background: radial-gradient(circle, black, blue,cyan); */
+    /* background: conic-gradient( from 45deg, black, blue,cyan); */
+    /* background: conic-gradient( from 0deg at 50% 50%, black, blue,cyan); */ 
+    /* background: linear-gradient( to right,rgba(255,0,0,0.5), transparent); */
+    /* background: repeating-linear-gradient( to right,blue,black 10%,cyan 20%); */
+}
